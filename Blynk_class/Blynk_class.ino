@@ -5,8 +5,8 @@
 #define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME ""
 #define auth ""
-char ssid[] = "SISTec TP 225 M1";  // Your WiFi network name
-char pass[] = "1478523690";  // Your WiFi password
+char ssid[] = "";  // Your WiFi network name
+char pass[] = "";  // Your WiFi password
 
 int ledPin = D6;  // The pin number of your LED
 int motionPin = D5;  // The pin number of your motion detector sensor
