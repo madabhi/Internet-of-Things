@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3CT2XbHy-"
-#define BLYNK_TEMPLATE_NAME "LedControl"
-#define BLYNK_AUTH_TOKEN "n2Uy6XZzeTfeO3Y8tE0yZA26R-a2stgT"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 void setup() {
   // put your setup code here, to run once:
 pinMode(D0, OUTPUT);
