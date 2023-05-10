@@ -2,9 +2,9 @@
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-#define BLYNK_TEMPLATE_ID "TMPL3KHAw53sN"
-#define BLYNK_TEMPLATE_NAME "Classroom"
-#define auth "-DD3pYY3ykKXLHE6RDyDVofT2BVq8Dm5"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define auth ""
 char ssid[] = "SISTec TP 225 M1";  // Your WiFi network name
 char pass[] = "1478523690";  // Your WiFi password
 
