@@ -64,18 +64,7 @@ void loop() {
       digitalWrite(D7,HIGH);
       motionOnce=false;
     }
-    {
-      digitalWrite(D0,HIGH);
-      digitalWrite(D1,HIGH);
-      digitalWrite(D2,HIGH);
-      digitalWrite(D3,HIGH);
-      digitalWrite(D4,HIGH);
-      digitalWrite(D5,HIGH);
-      digitalWrite(D6,HIGH);
-      digitalWrite(D7,HIGH);
-      digitalWrite(10,HIGH);
-      motionOnce=false;
-    }
+   
     Serial.println("Motion Detected");
     motionWifi();
     delay(500);
